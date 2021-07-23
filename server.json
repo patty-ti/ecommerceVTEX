@@ -1,0 +1,19 @@
+{
+"produtos" : [
+    {
+        "id" : 1,
+        "photo": "./src/view/images/Headset.png",
+        "name" : "Headset",
+        "description": "Descrição do produto",
+        "price": 189
+    },
+    {
+        "id" : 2,
+        "photo": "./src/view/images/Headset.png",
+        "name" : "PC Gamer",
+        "description": "Descrição do produto",
+        "price": 4000
+    }
+]
+
+}

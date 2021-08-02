@@ -2,13 +2,48 @@
 "produtos" : [
     {
         "id" : 1,
-        "photo": "./src/view/images/Headset.png",
+        "photo": "../../assets/headset.png",
         "name" : "Headset",
         "description": "Descrição do produto",
         "price": 189
     },
     {
         "id" : 2,
+        "photo": "../../../assets/pcgamer.png",
+        "name" : "PC Gamer",
+        "description": "Descrição do produto",
+        "price": 12000
+    },
+    {
+        "id" : 3,
+        "photo": "../../../assets/teclado.png",
+        "name" : "Teclado Gamer",
+        "description": "Descrição do produto",
+        "price": 300
+    },
+    {
+        "id" : 4,
+        "photo": "../../assets/cadgamer.png",
+        "name" : "Cadeira Gamer",
+        "description": "Descrição do produto",
+        "price":2500
+    },
+    {
+        "id" : 5,
+        "photo": "./src/view/images/Headset.png",
+        "name" : "PC Gamer",
+        "description": "Descrição do produto",
+        "price": 4000
+    },
+    {
+        "id" : 6,
+        "photo": "./src/view/images/Headset.png",
+        "name" : "PC Gamer",
+        "description": "Descrição do produto",
+        "price": 4000
+    },
+    {
+        "id" : 7,
         "photo": "./src/view/images/Headset.png",
         "name" : "PC Gamer",
         "description": "Descrição do produto",
